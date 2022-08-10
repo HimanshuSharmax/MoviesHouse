@@ -126,7 +126,7 @@ function highlightSelection() {
     tags.forEach(tag => {
         tag.classList.remove('highlight')
     })
-    clearBtn()
+   // clearBtn()
     if(selectedGenre.length !=0){   
         selectedGenre.forEach(id => {
             const hightlightedTag = document.getElementById(id);
