@@ -4,7 +4,7 @@ Movie House is a media-streaming website whose purpose is to show movies, traile
 It is based on the TMDB API that provides to fetch and use its own data or images, and is built using HTML, CSS and JavaScript.
 
 <h2> Live Preview </h2>
-You can check out [live preview](https://movieshouseapi.netlify.app/)
+You can check out <a href="https://movieshouseapi.netlify.app/">live-preview</a>.
 
 <h2 align="center"> Website preview </h2>
 
