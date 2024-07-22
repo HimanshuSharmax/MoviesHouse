@@ -10,7 +10,8 @@ You can check out <a href="https://movieshouseapi.netlify.app/">live-preview</a>
 
 <h2 align="center"> Website preview </h2>
 
-![Web capture_11-8-2022_03741_movieshouseapi herokuapp com](https://user-images.githubusercontent.com/86725419/184006280-28a56f8e-a3b9-42d5-8128-4d5cb1ea4ff9.jpeg)
+![1](https://github.com/user-attachments/assets/9a98e62f-6c8d-476e-ad3a-da94a18c8ff0)
+
 
 <h2 align="center"> Movie's trailer </h2>
 
@@ -18,5 +19,8 @@ You can check out <a href="https://movieshouseapi.netlify.app/">live-preview</a>
 
 <h2 align="center"> Responsive Website Layout For Mobiles</h2>
 
-![Screenshot (407)](https://user-images.githubusercontent.com/86725419/184008340-85128356-1b77-40bd-bc5b-fef4ee010ba7.png)
-![Screenshot (408)](https://user-images.githubusercontent.com/86725419/184008454-dc35b85f-0b4e-483a-b252-62377dedaeaa.png)
+<p align="left">
+<img src="https://github.com/user-attachments/assets/6be6e7fb-e253-4a68-8428-177d636f5c74" width=320 height=600>
+<img src="https://user-images.githubusercontent.com/86725419/184008454-dc35b85f-0b4e-483a-b252-62377dedaeaa.png" width=320 height=600>
+</p>
+
